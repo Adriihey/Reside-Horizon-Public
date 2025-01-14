@@ -12315,7 +12315,7 @@ textarea.form-control-lg {
 }
 
 .hero-section-bg {
-  background: url("/src/assets/img/section-bg/hero-section-bg.png");
+  background: url("..img/section-bg/hero-section-bg.png");
   background-size: cover;
   width: 100vw;
   background-repeat: no-repeat;
