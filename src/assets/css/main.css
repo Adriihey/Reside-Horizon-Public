@@ -3930,7 +3930,7 @@ textarea.form-control-lg {
   --bs-navbar-toggler-padding-y: 0.25rem;
   --bs-navbar-toggler-padding-x: 0.75rem;
   --bs-navbar-toggler-font-size: 1.25rem;
-  --bs-navbar-toggler-icon-bg: url("/src/assets/img/icons/open-menu.png");
+  --bs-navbar-toggler-icon-bg: url("../img/icons/open-menu.png");
   --bs-navbar-toggler-border-color: rgba(250,123,1, 0.85);
   --bs-navbar-toggler-border-radius: var(--bs-border-radius);
   --bs-navbar-toggler-focus-width: 0.25rem;
@@ -12238,13 +12238,13 @@ textarea.form-control-lg {
 }
 
 .career-bg {
-  background: url('/src/assets/img/career\ img.webp');
+  background: url('../img/career\ img.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .contact-bg {
-  background: url('/src/assets/img/contact\ us\ img.webp');
+  background: url('../img/contact\ us\ img.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -12326,7 +12326,7 @@ textarea.form-control-lg {
   align-items: center;
 }
 .what-we-do-bg {
-  background: url("/src/assets/img/section-bg/what-do-we-do-img.png");
+  background: url("../img/section-bg/what-do-we-do-img.png");
   background-size: cover;
   width: 100vw;
   background-repeat: no-repeat;
@@ -12337,7 +12337,7 @@ textarea.form-control-lg {
   align-items: center;
 }
 .why-reside-bg {
-  background: url("/src/assets/img/section-bg/why-reside-img.png");
+  background: url("../img/section-bg/why-reside-img.png");
   background-size: cover;
   width: 100vw;
   background-repeat: no-repeat;
@@ -12348,7 +12348,7 @@ textarea.form-control-lg {
   align-items: center;
 }
 .thriving-community-bg {
-  background: url("/src/assets/img/section-bg/thriving-community-bg.png");
+  background: url("../img/section-bg/thriving-community-bg.png");
   background-size: cover;
   width: 100vw;
   background-repeat: no-repeat;
